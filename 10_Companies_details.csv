@@ -1,0 +1,11 @@
+﻿stock_id,Stock_Symbol,Company_Name,Industry_Sector,FullTimeEmployees,MarketCaps(Billions),TrailingPE,ShortOfFloat(%),TrailingAnnualDividendYield,EnterpriseValue(Billions)
+1,AAPL,Apple Inc.,ConsumerElectronics_Technology,164000,2356.04,25.28,0.7,0.01,2409
+2,AMD,Advanced Micro Devices Inc.,Semiconductors_Technology,308117,123.52,93.43,1.9,0.03,120.84
+3,AMZN,Amazon.com Inc.,InternetRetail_ConsumerCyclical,1541000,981.59,0,0.8,0.03,1069.1
+4,BABA,Alibaba Group Holding Limited,InternetRetail_ConsumerCyclical,243903,256.5,133.49,0,0.03,80.33
+5,BAC,Bank of America Corporation,Banks—Diversified_Financial Services,216823,274.21,10.75,0.7,0.03,-1.02
+6,CVX,Chevron Corporation(CVX),Oil & GasIntegrated_Energy,308117,310.06,8.77,0.7,0.04,320.47
+7,CSCO,"Cisco Systems,Inc.",CommunicationEquipment_Technology,83300,202.57,18.06,1,0.03,190.7
+8,MSFT,Microsoft Corporation,SoftwareInfrastructure_Technology,221000,1872.19,27.95,0.5,0.01,1859316
+9,NFLX,Netflix Inc.,Entertainment_CommunicationServices,12800,149.14,34.96,2,0.03,161.18
+10,TSLA,"Tesla,Inc.",AutoManufacturers_Consumer Cyclical,127855,635.54,58.56,3.5,0.03,609.26
